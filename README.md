@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/STYLEDCOMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
 
- <br/>
- <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzzn)](https://velog.io/@minzzn) 
 
    <br/>
