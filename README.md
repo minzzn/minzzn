@@ -20,6 +20,8 @@
 <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/STYLEDCOMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
 
+ <br/>
+ <br/>
 ####  :clipboard: Blog
   
  <br/>
