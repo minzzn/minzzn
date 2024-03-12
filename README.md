@@ -24,7 +24,7 @@
  <br/>
  
 ####  :clipboard: Blog
-  
+ <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzzn)](https://velog.io/@minzzn) 
 
    <br/>
