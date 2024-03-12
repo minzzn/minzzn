@@ -3,13 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=minzzn🐹&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+####  👋 Welcome !
 
   
  <br/>
  <br/>
   
-####  :clipboard: Skills 
+####  💻 Skills : Frontend
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -22,7 +22,7 @@
  <br/>
  <br/>
 
-####  :clipboard: Once I've Used 
+####  🖱️ 한번이라도 써본 기술 
 
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
@@ -36,7 +36,7 @@
  <br/>
  <br/>
  
-####  :clipboard: Tools
+####  🛠️ Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -44,7 +44,7 @@
  <br/>
  <br/>
  
-####  :clipboard: Documents
+####  📋 Documents
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzzn)](https://velog.io/@minzzn) 
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">
@@ -52,7 +52,7 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+####  ✏️ Study log
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&theme=blue-green)
 
