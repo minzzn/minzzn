@@ -22,9 +22,10 @@
  <br/>
  <br/>
  
-####  :clipboard: Blog
+####  :clipboard: Documents
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzzn)](https://velog.io/@minzzn) 
+<img src="https://img.shields.io/badge/#Notion-000000?style=for-the-badge&logo=Notion&logoColor=black">
 
    <br/>
    <br/>
