@@ -29,10 +29,9 @@
  
   <br/>
   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminzzn&count_bg=%2383FF8E&title_bg=%233B333C&icon=codeigniter.svg&icon_color=%2374E87F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&theme=blue-green)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminzzn&count_bg=%2383FF8E&title_bg=%233B333C&icon=codeigniter.svg&icon_color=%2374E87F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minzzn)](https://github.com/minzzn/velog-readme-stats)
 
