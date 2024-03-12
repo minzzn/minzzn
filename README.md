@@ -31,9 +31,11 @@
 <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=black">
 
 
+####  :clipboard: Tools
  <br/>
  <br/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black">
+<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
 
  <br/>
  <br/>
@@ -41,7 +43,6 @@
 ####  :clipboard: Documents
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzzn)](https://velog.io/@minzzn) 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black">
 <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">
 
    <br/>
@@ -54,5 +55,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&theme=blue-green)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minzzn)](https://github.com/minzzn/velog-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joke_bear)](https://solved.ac/joke_bear/)
 
 </div>
