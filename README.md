@@ -34,7 +34,7 @@
 ####  📋 Documents
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzzn)](https://velog.io/@minzzn) 
-<a href="link=https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black&link=https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4"></a>
+<a target="_blank" href="link=https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black&link=https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4"/></a>
 
    <br/>
    <br/>
