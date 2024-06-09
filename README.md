@@ -1,8 +1,9 @@
 
 <div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=150&section=header&text=minzzn🐹&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
+
+<img src="https://www.animationrecalibration.com/wp-content/uploads/2017/04/Buttercup_Flying.gif" width="1200" alt="출처-[powerpuff](https://www.animationrecalibration.com/tag/the-powerpuff-girls/)">
+
 ####  👋 Welcome !
 
   
@@ -41,7 +42,7 @@
    <br/>
  
 ####  ✏️ Study log
-<a href="https://github.com/minzzn"><img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&include_all_commits=true&theme=blue-green" alt="minzzn's github stats" /></a>
+<a href="https://github.com/minzzn"><img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&include_all_commits=true&theme=holi" alt="minzzn's github stats" /></a>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joke_bear)](https://solved.ac/joke_bear)
 
 
