@@ -48,6 +48,5 @@
 
 <a href="https://opgc.me/#/users/minzzn" target="_blank"><img src="https://api.opgc.me/githubs/users/minzzn/tag/?theme=basic" /></a> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joke_bear)](https://solved.ac/joke_bear/)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minzzn)](https://github.com/minzzn/velog-readme-stats)
 
 </div>
