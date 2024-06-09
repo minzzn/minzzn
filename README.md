@@ -41,12 +41,8 @@
    <br/>
  
 ####  ✏️ Study log
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&theme=blue-green)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminzzn&count_bg=%2383FF8E&title_bg=%233B333C&icon=codeigniter.svg&icon_color=%2374E87F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<a href="https://opgc.me/#/users/minzzn" target="_blank"><img src="https://api.opgc.me/githubs/users/minzzn/tag/?theme=basic" /></a> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joke_bear)](https://solved.ac/joke_bear/)
+<a href="https://github.com/minzzn"><img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&include_all_commits=true&theme=blue-green" alt="minzzn's github stats" /></a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=joke_bear)](https://solved.ac/joke_bear)
 
 
 </div>
