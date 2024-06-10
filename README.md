@@ -20,7 +20,7 @@
 
 <div align="left">
     <a href="https://velog.io/@minzzn">
-        <img src="https://velog-readme-stats.vercel.app/api/badge?name=minzzn" alt="Velog's GitHub stats">
+        <img src="https://velog-readme-stats.vercel.app/api/badge?name=minzzn" alt="Velog's GitHub stats" style="height:29px">
     </a>
     <a target="_blank" href="https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4">
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black&link=https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4"/>
