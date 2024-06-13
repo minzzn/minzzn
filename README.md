@@ -21,7 +21,7 @@
 </div>
 
 <div align="left">
-    <img alt="Static Badge" src="https://img.shields.io/badge/💻 Study Log-0A0C10?style=for-the-badge&logoColor=#0A0C100&color=ffffff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/💻 Study Log & Tools-0A0C10?style=for-the-badge&logoColor=#0A0C100&color=ffffff">
     <a href="https://velog.io/@minzzn">
         <img src="https://velog-readme-stats.vercel.app/api/badge?name=minzzn" alt="Velog's GitHub stats" style="height:29px">
     </a>
