@@ -4,6 +4,7 @@
 
 <div align="right">
     <br/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/💻 My_Stack-0A0C10?style=for-the-badge&logoColor=#0A0C100&color=ffffff">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -13,12 +14,14 @@
 </div>
 
 <div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/💻 Studying-0A0C10?style=for-the-badge&logoColor=#0A0C100&color=ffffff">
     <img src="https://img.shields.io/badge/REACT NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 <div align="left">
+    <img alt="Static Badge" src="https://img.shields.io/badge/💻 Study Log-0A0C10?style=for-the-badge&logoColor=#0A0C100&color=ffffff">
     <a href="https://velog.io/@minzzn">
         <img src="https://velog-readme-stats.vercel.app/api/badge?name=minzzn" alt="Velog's GitHub stats" style="height:29px">
     </a>
