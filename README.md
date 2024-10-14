@@ -22,8 +22,6 @@
 </div>
     
 <br/>
-<br/>
-<br/>
 
 <div align="center">
     <a href="https://github.com/minzzn">
