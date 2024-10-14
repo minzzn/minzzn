@@ -1,7 +1,3 @@
-<div align="center"> 
-    <img src="https://www.animationrecalibration.com/wp-content/uploads/2017/04/Buttercup_Flying.gif" width="1200" alt="출처-[powerpuff](https://www.animationrecalibration.com/tag/the-powerpuff-girls/)">
-</div>
-
 <div align="right">
     <br/>
     <img alt="Static Badge" src="https://img.shields.io/badge/💻 My_Stack-0A0C10?style=for-the-badge&logoColor=#0A0C100&color=ffffff">
