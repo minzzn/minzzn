@@ -11,16 +11,11 @@
     <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
     <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
     <img alt="Static Badge" src="https://img.shields.io/badge/💻 Study Log & Tools-0A0C10?style=for-the-badge&logoColor=#0A0C100&color=ffffff">
-    <a href="https://velog.io/@minzzn">
-        <img src="https://velog-readme-stats.vercel.app/api/badge?name=minzzn" alt="Velog's GitHub stats" style="height:29px">
-    </a>
     <a target="_blank" href="https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4">
         <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black&link=https://stingy-teacher-93e.notion.site/minzzn-Notion-7b4950d367964212919e5d7fc0802209?pvs=4"/>
     </a>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the>
-</div>
-    <div align="center">
     <a href="https://github.com/minzzn">
       <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=minzzn&show_icons=true&include_all_commits=true&theme=holi" alt="minzzn's github stats" />
     </a>
