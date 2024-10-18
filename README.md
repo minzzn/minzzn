@@ -1,4 +1,5 @@
-### 김민주 minzzuiw, frontend developer
+### 김민주 minzzuiw
+frontend developer
 
 ### 
 
