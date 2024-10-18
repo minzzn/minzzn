@@ -1,6 +1,8 @@
 ### 김민주 minzzuiw
 
 ### 
+* [교사-학부모 간 부정적 대화 감지 서비스](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891074)
+* 논문 [교사-학부모 간 부정적 대화 감지 서비스](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891074)
 
 <div>
     <br>
