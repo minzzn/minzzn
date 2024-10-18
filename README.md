@@ -1,9 +1,12 @@
 ### 김민주 minzzuiw
 
-### 
-* [교사-학부모 간 부정적 대화 감지 서비스](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891074)
-* 논문 [교사-학부모 간 부정적 대화 감지 서비스](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11891074)
+### projects
+* [교사-학부모 간 부정적 대화 감지 서비스 Contac.T](https://github.com/deceit-cat)
 
+### 
+* 계명대학교 멋쟁이사자처럼 10,11기 수료
+* [계명대학교 멋쟁이사자처럼 12기 운영진]()
+  
 <div>
     <br>
     <br>
