@@ -1,9 +1,4 @@
-### 김민주 입니다.
-
-### 기술 스택
-html/css, js, react
-
-### 
+### 김민주 minzzuiw, frontend developer
 
 ### 
 
